@@ -1,0 +1,114 @@
+{
+  "LANGUAGES": {
+    "english": "en",
+    "spanish": "es",
+    "german": "de",
+    "french": "fr",
+    "italian": "it",
+    "chinese": "zh",
+    "indian": "hi",
+    "russian": "ru",
+    "tagalog": "tl"
+  },
+  "UI_TEXT": {
+    "welcome": {
+      "en": "🌤️ Welcome to SkyPulse Weather App",
+      "es": "🌤️ ¡Bienvenido a la aplicación del clima SkyPulse",
+      "de": "🌤️ Willkommen bei SkyPulse Wetter App",
+      "fr": "🌤️ Bienvenue dans l'application météo SkyPulse ",
+      "it": "🌤️ Benvenuto nell'app meteo SkyPulse",
+      "zh": "🌤️ 欢迎使用SkyPulse天气应用",
+      "hi": "🌤️ SkyPulse मौसम ऐप में आपका स्वागत है",
+      "ru": "🌤️ Добро пожаловать в приложение погоды SkyPulse",
+      "tl": "🌤️ Maligayang pagdating sa SkyPulse Weather App"
+    },
+    "name_prompt": {
+      "en": "Please enter your name: ",
+      "es": "Por favor ingrese su nombre: ",
+      "de": "Bitte geben Sie Ihren Namen ein: ",
+      "fr": "Veuillez entrer votre nom : ",
+      "it": "Per favore inserisci il tuo nome: ",
+      "zh": "请输入您的名字：",
+      "hi": "कृपया अपना नाम दर्ज करें: ",
+      "ru": "Пожалуйста, введите ваше имя: ",
+      "tl": "Pakilagay ang iyong pangalan: "
+    },
+    "choose_language": {
+      "en": "Choose your language:",
+      "es": "Elija su idioma:",
+      "de": "Wählen Sie Ihre Sprache:",
+      "fr": "Choisissez votre langue :",
+      "it": "Scegli la tua lingua:",
+      "zh": "选择您的语言：",
+      "hi": "अपनी भाषा चुनें:",
+      "ru": "Выберите язык:",
+      "tl": "Piliin ang iyong wika:"
+    },
+    "enter_city": {
+      "en": "Enter city: ",
+      "es": "Ingrese ciudad: ",
+      "de": "Stadt eingeben: ",
+      "fr": "Entrez la ville : ",
+      "it": "Inserisci la città: ",
+      "zh": "输入城市：",
+      "hi": "शहर दर्ज करें: ",
+      "ru": "Введите город: ",
+      "tl": "Ilagay ang lungsod: "
+    },
+    "choose_action": {
+      "en": "\nWould you like to:",
+      "es": "\n¿Le gustaría:",
+      "de": "\nMöchten Sie:",
+      "fr": "\nVoulez-vous :",
+      "it": "\nVorresti:",
+      "zh": "\n您想要：",
+      "hi": "\nक्या आप चाहेंगे:",
+      "ru": "\nХотите:",
+      "tl": "\nGusto mo ba:"
+    },
+    "option_1": {
+      "en": "1. Find out the weather for another city",
+      "es": "1. Conocer el clima de otra ciudad",
+      "de": "1. Wetter für eine andere Stadt herausfinden",
+      "fr": "1. Connaître la météo d'une autre ville",
+      "it": "1. Scopri il meteo di un'altra città",
+      "zh": "1. 查询另一个城市的天气",
+      "hi": "1. किसी अन्य शहर का मौसम जानें",
+      "ru": "1. Узнать погоду в другом городе",
+      "tl": "1. Alamin ang panahon sa ibang lungsod"
+    },
+    "option_2": {
+      "en": "2. Quit",
+      "es": "2. Salir",
+      "de": "2. Beenden",
+      "fr": "2. Quitter",
+      "it": "2. Esci",
+      "zh": "2. 退出",
+      "hi": "2. बाहर निकलें",
+      "ru": "2. Выйти",
+      "tl": "2. Lumabas"
+    },
+    "invalid_choice": {
+      "en": "Invalid choice, exiting.",
+      "es": "Opción inválida, saliendo.",
+      "de": "Ungültige Auswahl, Programm wird beendet.",
+      "fr": "Choix invalide, fermeture.",
+      "it": "Scelta non valida, uscita.",
+      "zh": "选择无效，正在退出。",
+      "hi": "अमान्य विकल्प, बाहर निकल रहे हैं।",
+      "ru": "Неверный выбор, выход.",
+      "tl": "Hindi wastong pagpipilian, aalis na."
+    },
+    "goodbye": {
+      "en": "Goodbye! Stay safe 🌤️",
+      "es": "¡Adiós! Cuídate 🌤️",
+      "de": "Auf Wiedersehen! Bleib sicher 🌤️",
+      "fr": "Au revoir ! Prenez soin de vous 🌤️",
+      "it": "Arrivederci! Stammi bene 🌤️",
+      "zh": "再见！保重 🌤️",
+      "hi": "अलविदा! सुरक्षित रहें 🌤️",
+      "ru": "До свидания! Берегите себя 🌤️",
+      "tl": "Paalam! Ingat ka 🌤️"
+    }
+  }
+}
